@@ -1,18 +1,13 @@
-## Getting Started
+Olá, nós somos a Monkey Cinema, estamos aqui para proporcionar uma aplicação desktop para seu cinema usar, oferecendo um programa de interface facil de entender e usar.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Nossos programa conta com um menu mostrando os destaques mais recentes, um filtro para buscar por categoria, classificação indicativa e para pré-estreias, uma maneira simples de selecionar os assentos, um cardápio para o que o seu cinema oferece e as formas de pagamento que inclui descontos para idosos, estudantes, etc.
 
-## Folder Structure
+Você pode implementá-lo em totens para o uso direto do cliente ou em caixas para uso de funcionários.
 
-The workspace contains two folders by default, where:
+Para gerenciar os filmes em cartaz e o cardápio, utilize o banco de dados e as funções de adicionar, remover e mudar para que o serviço siga o que seu cinema está oferecendo.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Nossos membros fundadores são: Guilherme Napoleão, Erick Verríssimo e Gabriel Silva.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Foi um grande prazer fazer negócios com você.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+MONKEY FAT CINEMAS
